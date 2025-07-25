@@ -1,4 +1,4 @@
-# Datapacks-for-Ecliptic-Seasons
+# Data packs for Ecliptic Seasons
 
 Here is a repository for datapacks designed for compatibility between [Ecliptic Seasons](https://github.com/joe-vettek/Ecliptic-Seasons ) and other mods.
  If you're using a crop-related datapack, it's recommended to enable **"ForceCompatMode"** in the crop settings if you not sure.
