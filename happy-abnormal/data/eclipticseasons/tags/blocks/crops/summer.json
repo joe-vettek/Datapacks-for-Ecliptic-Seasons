@@ -1,0 +1,40 @@
+{
+	"values": [
+		{
+			"id": "atmospheric:yucca_branch",
+			"required": false
+		},
+		{
+			"id": "atmospheric:dragon_roots",
+			"required": false
+		},
+		{
+			"id": "atmospheric:vanilla_vine_plant",
+			"required": false
+		},
+		{
+			"id": "atmospheric:vanilla_vine",
+			"required": false
+		},
+		{
+			"id": "neapolitan:adzuki_soil",
+			"required": false
+		},
+		{
+			"id": "neapolitan:adzuki_sprouts",
+			"required": false
+		},
+		{
+			"id": "neapolitan:small_banana_frond",
+			"required": false
+		},
+		{
+			"id": "neapolitan:banana_frond",
+			"required": false
+		},
+		{
+			"id": "neapolitan:large_banana_frond",
+			"required": false
+		}
+	]
+}

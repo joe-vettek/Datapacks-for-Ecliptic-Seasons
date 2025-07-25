@@ -1,0 +1,64 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:walnut_leaves",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_walnuts",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_acacia_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_bamboo_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_birch_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_cherry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_crimson_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_dark_oak_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_hoary_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_jungle_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_mangrove_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_spruce_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_walnut_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:elderberry_warped_trellis",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:leeks",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:tea_shrub",
+			"required": false
+		}
+	]
+}

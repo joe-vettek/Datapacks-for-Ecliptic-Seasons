@@ -1,0 +1,56 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:lapisberry_acacia_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_bamboo_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_birch_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_cherry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_crimson_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_dark_oak_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_hoary_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_jungle_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_mangrove_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_spruce_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_walnut_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:lapisberry_warped_trellis",
+			"required": false
+		}
+	]
+}

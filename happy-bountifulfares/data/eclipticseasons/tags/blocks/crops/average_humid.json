@@ -1,0 +1,56 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:glow_berry_acacia_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_bamboo_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_birch_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_cherry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_crimson_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_dark_oak_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_hoary_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_jungle_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_mangrove_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_spruce_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_walnut_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:glow_berry_warped_trellis",
+			"required": false
+		},
+	]
+}

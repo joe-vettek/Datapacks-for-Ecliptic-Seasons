@@ -1,0 +1,72 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:hanging_apple",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_orange",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_plum",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:spongekin_stem",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_acacia_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_bamboo_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_birch_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_cherry_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_crimson_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_dark_oak_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_hoary_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_jungle_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_mangrove_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_spruce_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_walnut_trellis",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:passion_fruit_warped_trellis",
+			"required": false
+		}
+	]
+}

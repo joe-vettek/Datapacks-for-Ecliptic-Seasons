@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "#bountifulfares:orange_leaves",
+			"required": false
+		},
+		{
+			"id": "#bountifulfares:lemon_leaves",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:spongekin_stem",
+			"required": false
+		}
+	]
+}

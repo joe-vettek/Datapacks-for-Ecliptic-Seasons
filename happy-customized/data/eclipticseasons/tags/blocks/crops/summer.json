@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "customized:rice_crop",
+			"required": false
+		},
+		{
+			"id": "customized:bitter_gourd_crop",
+			"required": false
+		},
+		{
+			"id": "customized:sichuan_pepper_crop",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "customized:tomato_crop",
+			"required": false
+		},
+		{
+			"id": "customized:broad_bean_crop",
+			"required": false
+		},
+		{
+			"id": "customized:scallion_crop",
+			"required": false
+		}
+	]
+}

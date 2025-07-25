@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "kaleidoscope_cookery:lettuce_crop",
+			"required": false
+		},
+		{
+			"id": "kaleidoscope_cookery:chili_crop",
+			"required": false
+		}
+	]
+}

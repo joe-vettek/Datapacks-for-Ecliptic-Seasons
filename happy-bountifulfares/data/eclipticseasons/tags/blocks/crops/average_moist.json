@@ -1,0 +1,44 @@
+{
+	"values": [
+		{
+			"id": "#bountifulfares:apple_leaves",
+			"required": false
+		},
+		{
+			"id": "#bountifulfares:plum_leaves",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hoary_leaves",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_walnuts",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_plum",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:leeks",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_apple",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_orange",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:hanging_lemon",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:walnut_leaves",
+			"required": false
+		}
+	]
+}

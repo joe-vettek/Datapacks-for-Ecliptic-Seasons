@@ -1,0 +1,24 @@
+{
+	"values": [
+		{
+			"id": "upgrade_aquatic:mulberry_vine",
+			"required": false
+		},
+		{
+			"id": "autumnity:tall_foul_berry_bush",
+			"required": false
+		},
+		{
+			"id": "neapolitan:strawberry_bush",
+			"required": false
+		},
+		{
+			"id": "neapolitan:adzuki_soil",
+			"required": false
+		},
+		{
+			"id": "neapolitan:adzuki_sprouts",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "bountifulfares:hanging_hoary_apple",
+			"required": false
+		},
+		{
+			"id": "bountifulfares:maize_crop",
+			"required": false
+		}
+	]
+}
