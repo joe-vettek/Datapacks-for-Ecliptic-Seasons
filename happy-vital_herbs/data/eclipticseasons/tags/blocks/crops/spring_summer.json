@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:dried_glow_leaf_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:glow_leaf_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:bleeding_heart_plant",
+			"required": false
+		}
+	]
+}

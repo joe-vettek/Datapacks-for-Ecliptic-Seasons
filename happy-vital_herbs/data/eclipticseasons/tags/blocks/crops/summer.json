@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:snap_pepper_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:burst_bud_plant",
+			"required": false
+		}
+	]
+}

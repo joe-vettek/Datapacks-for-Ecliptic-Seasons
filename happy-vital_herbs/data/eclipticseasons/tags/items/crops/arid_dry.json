@@ -1,0 +1,24 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:iron_root",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:razor_leaf",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:grim_vine",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:mourning_bloom",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:burst_bud",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:snap_pepper_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:needle_heart_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:tox_kiss_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:blue_spar_plant",
+			"required": false
+		}
+	]
+}

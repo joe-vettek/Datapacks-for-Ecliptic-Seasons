@@ -1,0 +1,20 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:glow_leaf",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:sooth_blossom_seeds",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:crimson_lily_seeds",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:bleeding_heart_seeds",
+			"required": false
+		}
+	]
+}
