@@ -1,0 +1,20 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:razor_leaf_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:needle_heart_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:mourning_bloom_plant",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:fizz_fruit_plant",
+			"required": false
+		}
+	]
+}

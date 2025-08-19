@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "concoction:crop_corn",
+			"required": false
+		},
+		{
+			"id": "concoction:crop_spicy_pepper",
+			"required": false
+		},
+		{
+			"id": "concoction:nether_pepper_crop",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"values": [
+		{
+			"id": "concoction:crop_corn",
+			"required": false
+		},
+		{
+			"id": "concoction:crop_spicy_pepper",
+			"required": false
+		},
+		{
+			"id": "concoction:crop_onion",
+			"required": false
+		},
+		{
+			"id": "concoction:crop_tomato",
+			"required": false
+		},
+		{
+			"id": "concoction:mint",
+			"required": false
+		},
+		{
+			"id": "concoction:sunflower",
+			"required": false
+		}
+	]
+}

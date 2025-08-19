@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:glow_leaf",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:bleeding_heart_seeds",
+			"required": false
+		}
+	]
+}

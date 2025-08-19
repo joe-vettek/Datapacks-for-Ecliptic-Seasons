@@ -1,0 +1,12 @@
+{
+	"values": [
+		{
+			"id": "vital_herbs:crimson_lily_seeds",
+			"required": false
+		},
+		{
+			"id": "vital_herbs:tox_kiss_seeds",
+			"required": false
+		}
+	]
+}
